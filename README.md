@@ -19,8 +19,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Stats Card" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="Streak Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Jain52&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Stats Card" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Jain52&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="Streak Card" />
 </div>
 
 ### 🚀 What I'm Building
