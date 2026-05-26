@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Shubham!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Agents%20%7C%20descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Shubham!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Agents%20&descAlignY=51&descAlign=62" />
 </div>
 
 <h3 align="center">Crafting AI-native platforms and scalable systems</h3>
